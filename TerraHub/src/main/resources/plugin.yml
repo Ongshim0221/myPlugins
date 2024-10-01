@@ -1,0 +1,6 @@
+name: TerraHub
+version: '${project.version}'
+main: org.example1.terrahub.TerraHub
+api-version: '1.21'
+commands:
+  tr:
